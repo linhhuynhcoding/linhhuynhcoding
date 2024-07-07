@@ -1,7 +1,7 @@
 # 👀 Welcome to My GitHome!! ✌
 
 <p style="font-weight:500;">Xin Chào! I'm Linh💻</p>
-<p style="font-weight:200;">Welcome to My GitHub Homepage! I am currently studying Information Technology at Ho Chi Minh University of Transport. I am passionate about programming and solving complex problems, and I continuously strive to learn and develop my skills to make meaningful contributions to the field of information technology in the future. </p>
+<p style="font-weight:200;">Welcome to my GitHub homepage! I'm currently studying Information Technology at Ho Chi Minh University of Transport. I have a passion for programming and solving complex problems. I constantly strive to learn and develop my skills to make meaningful contributions to the field of information technology. </p>
 
 ## ⭐ About Me   
 
