@@ -26,7 +26,7 @@
 - **[Youtube](https://www.youtube.com/@younglungling)**
 - **[Facebook](https://www.facebook.com/hvnhatlinh3004)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linhhuynhcoding&repo=Library-Management&theme=shadow_red)](https://github.com/linhhuynhcoding/Library-Management)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linhhuynhcoding&repo=Library-Management&theme=moltack)](https://github.com/linhhuynhcoding/Library-Management)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linhhuynhcoding&repo=Competitive-Programming&theme=buefy)](https://github.com/linhhuynhcoding/Competitive-Programming)
 
 <!--
