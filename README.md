@@ -3,17 +3,21 @@
 <p style="font-weight:500;">Xin Chào! I'm Linh</p>
 <p style="font-weight:200;">Welcome to my GitHub homepage! I'm currently studying Information Technology at Ho Chi Minh University of Transport. I have a passion for programming and solving complex problems. I constantly strive to learn and develop my skills to make meaningful contributions to the field of information technology. </p>
 
+
+
 ## About Me   
 
 - **Education**: Ho Chi Minh City University of Transport
-- **Current Role**: Information Technology Student
+- **Current Role**: NodeJS Backend Developer
 - **Location**: Ho Chi Minh City, Vietnam
 - **Contact**: nhatlinh.6449@gmail.com
 
+
+
 ## Skills and Technologies
 
-- **Languages**: Java, PostgreSQL, C++, Python.
-- **Frameworks and Tools**: IntelliJ, Visual Studio Code.
+- **Programming Languages**: ***Typescript***, Javascript, Java, C++.
+- **Frameworks and Tools**: Visual Studio Code, IntelliJ.
 - **Other**: Version Control (Git)
 
 <!--## GitHub Stats -->
@@ -26,8 +30,8 @@
 - **[Youtube](https://www.youtube.com/@younglungling)**
 - **[Facebook](https://www.facebook.com/hvnhatlinh3004)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linhhuynhcoding&repo=ecommerce-website-sern&theme=buefy)](https://github.com/linhhuynhcoding/ecommerce-website-sern)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linhhuynhcoding&repo=Library-Management&theme=moltack)](https://github.com/linhhuynhcoding/Library-Management)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhhuynhcoding&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=linhhuynhcoding&theme=blueberry&date_format=j%2Fn%5B%2FY%5D&card_width=400)](https://git.io/streak-stats)
+
 
 <!--
 **linhhuynhcoding/linhhuynhcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
