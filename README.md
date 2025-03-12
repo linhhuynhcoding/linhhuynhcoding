@@ -4,15 +4,7 @@
 ###
 
 <p align="left">Welcome to my GitHub homepage! I'm currently studying Information Technology at Ho Chi Minh University of Transport. I have a passion for programming and solving complex problems. I constantly strive to learn and develop my skills to make meaningful contributions to the field of information technology.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linhhuynhcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=linhhuynhcoding&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph"  />
-</div>
-
-###
+<hr/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -66,8 +58,13 @@
 </div>
 
 ###
+<hr/>
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linhhuynhcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=linhhuynhcoding&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph"  />
+</div>
+<hr/>
 
 ![](https://komarev.com/ghpvc/?username=linhhuynhcoding&style=for-the-badge&color=brightgreen)
 ###
