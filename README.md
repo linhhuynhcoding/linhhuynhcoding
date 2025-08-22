@@ -1,11 +1,12 @@
 
-<h2 align="left">Welcome to my GitHome 👋! My name is Linh and I'm a Web Developer, from Vietnam</h2>
+<h2 align="left">Welcome to my GitHome 👋! My name is Linh and I'm a Software Engineer, from Vietnam</h2>
 
 ###
 
 <p align="left">Welcome to my GitHub homepage! I'm currently studying Information Technology at Ho Chi Minh University of Transport. I have a passion for programming and solving complex problems. I constantly strive to learn and develop my skills to make meaningful contributions to the field of information technology.</p>
 <hr/>
 
+/*
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -68,3 +69,4 @@
 
 ![](https://komarev.com/ghpvc/?username=linhhuynhcoding&style=for-the-badge&color=brightgreen)
 ###
+*/
